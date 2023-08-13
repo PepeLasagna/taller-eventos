@@ -1,0 +1,15 @@
+#btn {
+    background-color: salmon;
+    border-radius: 15px;
+    padding: 10px;
+    position: absolute;
+    margin-left: 50%;
+    margin-right: 50%;
+    margin-top: 50%;
+    margin-bottom: 50%;
+    
+}
+
+body{
+    background-color: grey;
+}
